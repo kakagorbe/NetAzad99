@@ -1,2 +1,2 @@
 # NetAzad99
-config pannel free
+ pannelconfig free
